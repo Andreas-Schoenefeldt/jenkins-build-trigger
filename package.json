@@ -1,6 +1,6 @@
 {
   "name": "jenkins-build-trigger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows to trigger builds via the Jenkins api",
   "main": "index.js",
   "scripts": {
